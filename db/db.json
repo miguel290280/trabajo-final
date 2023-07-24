@@ -1,0 +1,66 @@
+{
+  "Categorias": [
+    {
+      "id": 1,
+      "nombre": "GASEOSAS"
+    },
+    {
+      "id": 2,
+      "nombre": "MASITAS"
+    },
+    {
+      "id": 3,
+      "nombre": "JUGOS"
+    },
+    {
+      "id": 4,
+      "nombre": "PASTAS"
+    },
+    {
+      "id": 5,
+      "nombre": "POSTRES"
+    },
+    {
+      "id": 6,
+      "nombre": "LACTEOS"
+    },
+    {
+      "id": 7,
+      "nombre": "SALSAS"
+    },
+    {
+      "id": 8,
+      "nombre": "GALLETAS"
+    },
+    {
+      "id": 9,
+      "nombre": "FRITURAS"
+    }
+  ],
+  "Productos": [
+    {
+      "id": 1,
+      "nombre": "Dron LU3 MAX GPS 8K HD",
+      "precio": "620",
+      "id_categoria": 3
+    },
+    {
+      "id": 2,
+      "nombre": "UNO NUEVO",
+      "precio": 5,
+      "id_categoria": 5
+    },
+    {
+      "id": 3,
+      "nombre": "cscsdcsdc",
+      "precio": 15,
+      "id_categoria": 5
+    },
+    {
+      "id": 4,
+      "nombre": "XXXXX",
+      "precio": 100,
+      "id_categoria": 6
+    }
+  ]
+}
